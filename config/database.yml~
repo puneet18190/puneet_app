@@ -6,7 +6,7 @@ production: &defaults
   database: app_dev
   pool: 5
   username: user1
-  password: password
+  password: puneet
 
 development:
   <<: *defaults
